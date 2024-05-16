@@ -1,5 +1,5 @@
 #div{
-	background-image: url(../IMAGEREGISTER.jpg);
+	background-image: url(IMAGEREGISTER.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: cadetblue;
@@ -9,7 +9,7 @@
 }
 #div:hover{
 	color:goldenrod;
-	background-image: url(../spiderimg.jpg);
+	background-image: url(spiderimg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
