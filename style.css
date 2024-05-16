@@ -2,13 +2,13 @@
 	background-image: url(IMAGEREGISTER.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: cadetblue;
+/* 	color: cadetblue; */
 }
 #div:active{
 	color: burlywood;
 }
 #div:hover{
-	color:goldenrod;
+/* 	color:goldenrod; */
 	background-image: url(spiderimg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
